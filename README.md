@@ -8,7 +8,7 @@ It inludes Create and publish new blog posts, Retrieve all available blog posts,
 
 It includes Handle application errors and invalid requests, Validate user input, Return meaningful error responses, Handle cases such as missing resources and invalid IDs and Improve API reliability through consistent error handling.
 
-The Blog app follows a layered architecture to improve maintainability
+The Blog app follows a layered architecture to improve maintainability,
 Controller Layer: Handles incoming HTTP requests and sends responses.
 Service Layer: Implements business logic and application rules.
 Repository Layer: Communicates with the database.
